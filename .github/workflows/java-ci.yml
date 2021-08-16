@@ -1,4 +1,4 @@
-name: Java CI
+name: Zolaton Parent Pom CI
 
 on: [push]
 
