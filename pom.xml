@@ -13,7 +13,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/octocat/zolaton-parent-pom</url>
+      <url>https://maven.pkg.github.com/Zolaton/zolaton-parent-pom</url>
     </repository>
   </distributionManagement>
 
