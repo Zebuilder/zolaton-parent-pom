@@ -27,6 +27,7 @@ jobs:
       #  run: mvn --batch-mode --update-snapshots verify
       - name: Publish to GitHub Packages
         #run: mvn --batch-mode deploy
-        run: mvn --batch-mode help:effective-settings
+        #run: mvn --batch-mode help:effective-settings
+        run: ls -al
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
