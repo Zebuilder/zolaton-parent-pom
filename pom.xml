@@ -9,6 +9,13 @@
 
   <name>Zolaton Parent Pom</name>
 
+  <repositories>
+    <repository>
+      <id>github</id>
+      <url>https://maven.pkg.github.com/Zebuilder/*</url>
+    </repository>
+  </repositories>
+
   <distributionManagement>
     <repository>
       <id>github</id>
