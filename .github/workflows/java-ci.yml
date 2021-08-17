@@ -1,4 +1,4 @@
-name: Back End CI
+name: Parent Pom CI
 
 on: [push]
 
