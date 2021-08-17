@@ -20,7 +20,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/Zebuilder/${groupId}</url>
+      <url>https://maven.pkg.github.com/Zebuilder/${artifactId}</url>
     </repository>
   </distributionManagement>
 
